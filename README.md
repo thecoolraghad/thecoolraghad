@@ -1,4 +1,4 @@
-# Hi, I’m Raghad 👋
+# Hi, I’m Raghad 🐬
 
 **Computer Engineering (AI) Student** @ UCSI University, Malaysia  
 🎯 Seeking internship opportunities in AI / Embedded Systems / Software Engineering  
